@@ -9,5 +9,8 @@ Project Objectives:
 + ~~Deploy your site to the web using GitHub Pages~~
 + OPTIONAL: Buy a custom domain name and have it point to your GitHub Pages website
 
+## Must includes:
++ 
+
 ## Where I'm stuck:
 I have a pretty good foundation for my portfolio, but I am stuck trying to do a few things. Notably, I am having issues actually getting the website hosted... I have a domain, but pointing it to a host is the issue.
