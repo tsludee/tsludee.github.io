@@ -1,16 +1,23 @@
 # tsluder.github.io
 
-Project Objectives:
-+ ~~Build a website using HTML, CSS~~
+## Personal Portfolio
+For this project, you will build a personal portfolio site, a static website where you can share the projects that you build in this Path. Typically, a portfolio website will have a main page that features different projects that you’ve built and another page that contains contact information, in case someone wants to reach out to you. Occasionally, there are additional pages for each project, detailing the technology used.
+
+### Project Objectives:
++ Build a website using HTML, CSS
 + Add at least one interactive feature using JavaScript
-+ ~~Use Git version control~~
-+ ~~Use the command line and file navigation~~
-+ ~~Develop locally on your computer~~
-+ ~~Deploy your site to the web using GitHub Pages~~
++ Use Git version control
++ Use the command line and file navigation
++ Develop locally on your computer
++ Deploy your site to the web using GitHub Pages
 + OPTIONAL: Buy a custom domain name and have it point to your GitHub Pages website
 
-## Must includes:
-+ 
 
-## Where I'm stuck:
-I have a pretty good foundation for my portfolio, but I am stuck trying to do a few things. Notably, I am having issues actually getting the website hosted... I have a domain, but pointing it to a host is the issue.
+### Prerequisites:
++ HTML/CSS
++ JavaScript
++ Git and GitHub
++ Command line and file navigation
+
+#### Where I'm Stuck
+I need some photos of myself/work for this portfolio. I also want to get it hosted on my own domain/server. (No offense GitHub, thanks)
