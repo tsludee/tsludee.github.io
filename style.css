@@ -75,6 +75,7 @@ nav ul li a:hover::after{
 }
 #icon{
     width: 30px;
+    height: 100%;
     cursor: pointer;
 }
 .header-text{
